@@ -1,0 +1,237 @@
+[
+  {
+    "broadcast_id": 3,
+    "tacticam_id": 281,
+    "similarity": 0.6339613014277587
+  },
+  {
+    "broadcast_id": 2,
+    "tacticam_id": 239,
+    "similarity": 0.7214860766122646
+  },
+  {
+    "broadcast_id": 1,
+    "tacticam_id": 268,
+    "similarity": 0.7474156393100664
+  },
+  {
+    "broadcast_id": 7,
+    "tacticam_id": 239,
+    "similarity": 0.6856796276536394
+  },
+  {
+    "broadcast_id": 6,
+    "tacticam_id": 205,
+    "similarity": 0.5527336299442991
+  },
+  {
+    "broadcast_id": 5,
+    "tacticam_id": 194,
+    "similarity": 0.7266986249476849
+  },
+  {
+    "broadcast_id": 4,
+    "tacticam_id": 167,
+    "similarity": 0.7292305681387447
+  },
+  {
+    "broadcast_id": 23,
+    "tacticam_id": 168,
+    "similarity": 0.8767714540655539
+  },
+  {
+    "broadcast_id": 22,
+    "tacticam_id": 170,
+    "similarity": 0.8770881377609141
+  },
+  {
+    "broadcast_id": 21,
+    "tacticam_id": 176,
+    "similarity": 0.9101128280298623
+  },
+  {
+    "broadcast_id": 20,
+    "tacticam_id": 169,
+    "similarity": 0.9247945179947865
+  },
+  {
+    "broadcast_id": 18,
+    "tacticam_id": 213,
+    "similarity": 0.8460993731069848
+  },
+  {
+    "broadcast_id": 17,
+    "tacticam_id": 160,
+    "similarity": 0.8926813192084337
+  },
+  {
+    "broadcast_id": 16,
+    "tacticam_id": 168,
+    "similarity": 0.886432066954048
+  },
+  {
+    "broadcast_id": 15,
+    "tacticam_id": 172,
+    "similarity": 0.8855400301462955
+  },
+  {
+    "broadcast_id": 14,
+    "tacticam_id": 160,
+    "similarity": 0.8956994452468912
+  },
+  {
+    "broadcast_id": 13,
+    "tacticam_id": 226,
+    "similarity": 0.9027220323057044
+  },
+  {
+    "broadcast_id": 12,
+    "tacticam_id": 164,
+    "similarity": 0.929183280224914
+  },
+  {
+    "broadcast_id": 29,
+    "tacticam_id": 261,
+    "similarity": 0.6702499532424473
+  },
+  {
+    "broadcast_id": 27,
+    "tacticam_id": 207,
+    "similarity": 0.808685262836065
+  },
+  {
+    "broadcast_id": 31,
+    "tacticam_id": 194,
+    "similarity": 0.7455746230066012
+  },
+  {
+    "broadcast_id": 19,
+    "tacticam_id": 170,
+    "similarity": 0.9322627096349108
+  },
+  {
+    "broadcast_id": 32,
+    "tacticam_id": 168,
+    "similarity": 0.908135450020232
+  },
+  {
+    "broadcast_id": 33,
+    "tacticam_id": 172,
+    "similarity": 0.8867150227207896
+  },
+  {
+    "broadcast_id": 39,
+    "tacticam_id": 194,
+    "similarity": 0.7671782992629836
+  },
+  {
+    "broadcast_id": 40,
+    "tacticam_id": 207,
+    "similarity": 0.8236161028460666
+  },
+  {
+    "broadcast_id": 41,
+    "tacticam_id": 221,
+    "similarity": 0.8159170680136274
+  },
+  {
+    "broadcast_id": 44,
+    "tacticam_id": 207,
+    "similarity": 0.8369545553254195
+  },
+  {
+    "broadcast_id": 51,
+    "tacticam_id": 207,
+    "similarity": 0.8675175803525196
+  },
+  {
+    "broadcast_id": 61,
+    "tacticam_id": 226,
+    "similarity": 0.9369930874478267
+  },
+  {
+    "broadcast_id": 69,
+    "tacticam_id": 168,
+    "similarity": 0.8145410344248414
+  },
+  {
+    "broadcast_id": 70,
+    "tacticam_id": 207,
+    "similarity": 0.8990962305968953
+  },
+  {
+    "broadcast_id": 73,
+    "tacticam_id": 176,
+    "similarity": 0.8942399523998261
+  },
+  {
+    "broadcast_id": 75,
+    "tacticam_id": 170,
+    "similarity": 0.8521723710787598
+  },
+  {
+    "broadcast_id": 77,
+    "tacticam_id": 213,
+    "similarity": 0.7923163750070402
+  },
+  {
+    "broadcast_id": 80,
+    "tacticam_id": 226,
+    "similarity": 0.9456101434000035
+  },
+  {
+    "broadcast_id": 79,
+    "tacticam_id": 183,
+    "similarity": 0.7291989348089349
+  },
+  {
+    "broadcast_id": 90,
+    "tacticam_id": 176,
+    "similarity": 0.8150303132017289
+  },
+  {
+    "broadcast_id": 89,
+    "tacticam_id": 176,
+    "similarity": 0.8362047324698284
+  },
+  {
+    "broadcast_id": 96,
+    "tacticam_id": 202,
+    "similarity": 0.8580553722960813
+  },
+  {
+    "broadcast_id": 101,
+    "tacticam_id": 162,
+    "similarity": 0.9218965732650289
+  },
+  {
+    "broadcast_id": 115,
+    "tacticam_id": 248,
+    "similarity": 0.8166843197447353
+  },
+  {
+    "broadcast_id": 118,
+    "tacticam_id": 168,
+    "similarity": 0.8970213127194915
+  },
+  {
+    "broadcast_id": 120,
+    "tacticam_id": 268,
+    "similarity": 0.8409746637027409
+  },
+  {
+    "broadcast_id": 143,
+    "tacticam_id": 189,
+    "similarity": 0.6420153502338775
+  },
+  {
+    "broadcast_id": 141,
+    "tacticam_id": 270,
+    "similarity": 0.6512686525097289
+  },
+  {
+    "broadcast_id": 153,
+    "tacticam_id": 168,
+    "similarity": 0.8233539835748762
+  }
+]

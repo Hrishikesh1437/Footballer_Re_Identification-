@@ -1,0 +1,17 @@
+# requirements.txt
+
+# Core
+torch>=2.2.0       # Or the latest version that works for your GPU
+ultralytics>=8.0.0 # If your YOLOv11 is under Ultralytics fork
+opencv-python>=4.9.0
+numpy>=1.26.0
+scikit-learn>=1.4.0
+
+# For tracking (SORT)
+filterpy>=1.4.5    # SORT needs this for Kalman Filter
+
+# Optional: tqdm for progress bars
+tqdm>=4.66.0
+
+# Optional: If you plan to use DeepSORT you might need TensorFlow too (but skip for now if you’re using plain SORT)
+# tensorflow>=2.16.1
